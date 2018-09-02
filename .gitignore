@@ -1,0 +1,5 @@
+*~
+vendor/
+.glide/
+.vscode/
+.idea/
